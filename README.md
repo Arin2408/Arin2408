@@ -30,5 +30,4 @@ I build  full-stack applications, and AI-powered products, with a focus on secur
 ### Connect
 
 - LinkedIn: https://www.linkedin.com/in/arin-jajuda/
-- GitHub: https://github.com/Arin2408
 - Email: jajudaarin@gmail.com
